@@ -165,7 +165,7 @@ Public Domain. No copy write protection.
 # From the intranet
 
 ## Concepts
-* REST API
+* [REST API](REST-API)
 * AirBnB clone
 # Resources
 * REST API concept page
